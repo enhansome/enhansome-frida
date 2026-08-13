@@ -1,0 +1,789 @@
+{
+  "items": [
+    {
+      "description": "Frida is Greasemonkey for native apps, or, put in more technical terms, it’s a dynamic code instrumentation toolkit. It lets you inject snippets of JavaScript into native apps that run on Windows, Mac, Linux, iOS and Android.\nFrida is an open source software.\nMore info here.",
+      "items": [],
+      "title": "What is Frida?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "frida-android-hooks",
+          "description": "Hook method calls in Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-30T14:04:52Z",
+            "owner": "antojoseph",
+            "repo": "frida-android-hooks",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-trace",
+          "description": "Trace APIs declaratively",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-16T11:51:14Z",
+            "owner": "nowsecure",
+            "repo": "frida-trace",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-compile",
+          "description": "Compile a Frida script comprised of one or more Node.js modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T13:56:33Z",
+            "owner": "frida",
+            "repo": "frida-compile",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FridaAndroidTracer",
+          "description": "A runnable jar that generate Javascript hook script to hook Android classes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-04-14T09:20:15Z",
+            "owner": "Piasy",
+            "repo": "FridaAndroidTracer",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-uikit",
+          "description": "Inspect and manipulate UIKit-based GUIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-16T09:21:30Z",
+            "owner": "nowsecure",
+            "repo": "frida-uikit",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-screenshot",
+          "description": "Grab (iOS) screenshots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T00:14:46Z",
+            "owner": "nowsecure",
+            "repo": "frida-screenshot",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-uiwebview",
+          "description": "Inspect and manipulate UIWebView-hosted GUIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-16T09:24:32Z",
+            "owner": "nowsecure",
+            "repo": "frida-uiwebview",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-fs",
+          "description": "Create a stream from a filesystem resource.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T22:11:30Z",
+            "owner": "nowsecure",
+            "repo": "frida-fs",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-push",
+          "description": "Automatically the correct frida-server matching your current frida installation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T07:46:05Z",
+            "owner": "TamerPlatform",
+            "repo": "frida-push",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-contrib",
+          "description": "Frida utility-belt",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-01T17:32:45Z",
+            "owner": "dweinstein",
+            "repo": "node-frida-contrib",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-remote-stream",
+          "description": "Create an outbound stream over a message transport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-16T09:27:32Z",
+            "owner": "nowsecure",
+            "repo": "frida-remote-stream",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-panic",
+          "description": "Easy crash-reporting for Frida-based applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-19T11:55:26Z",
+            "owner": "nowsecure",
+            "repo": "frida-panic",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-memory-stream",
+          "description": "Create a stream from one or more memory regions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-22T10:26:04Z",
+            "owner": "nowsecure",
+            "repo": "frida-memory-stream",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-load",
+          "description": "Load a Frida script comprised of one or more Node.js modules (Deprecated, use frida-compile)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-09T11:16:43Z",
+            "owner": "frida",
+            "repo": "frida-load",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iddoeldor/frida-snippets",
+          "description": "another useful frida snippets repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-29T15:02:23Z",
+            "owner": "iddoeldor",
+            "repo": "frida-snippets",
+            "stars": 2532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0xdea/frida-scripts",
+          "description": "instrumentation scripts to facilitate reverse engineering of android and iOS Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T21:39:51Z",
+            "owner": "0xdea",
+            "repo": "frida-scripts",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2frida",
+          "description": "static and dynamic analysis synergy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:46:22Z",
+            "owner": "nowsecure",
+            "repo": "r2frida",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-cycript",
+          "description": "Fork of cycript with new runtime called Mjølner powered by Frida.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-04T04:31:57Z",
+            "owner": "nowsecure",
+            "repo": "frida-cycript",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arida",
+          "description": "A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-02T11:41:55Z",
+            "owner": "tcc0lin",
+            "repo": "arida",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "as0ler/frida-scripts",
+          "description": "Repository including some useful frida script for iOS Reversing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-21T09:19:42Z",
+            "owner": "as0ler",
+            "repo": "frida-scripts",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XposedFridaBridge",
+          "description": "A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-24T08:03:09Z",
+            "owner": "monkeylord",
+            "repo": "XposedFridaBridge",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ios-inject-custom",
+          "description": "use Frida for standalone injection of a custom payload for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-05-26T16:56:39Z",
+            "owner": "oleavr",
+            "repo": "ios-inject-custom",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poxyran/misc",
+          "description": "Misc Frida scripts read-process-memory.py, write-process-memory.py, frida-heap-trace,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-27T17:28:44Z",
+            "owner": "poxyran",
+            "repo": "misc",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDA Pro plugin",
+          "description": "IDA Pro plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-04-05T07:30:22Z",
+            "owner": "techbliss",
+            "repo": "Frida_For_Ida_Pro",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davuxcom/frida-scripts",
+          "description": "Repository including scripts for COM, .NET and WinRT for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-29T04:53:03Z",
+            "owner": "davuxcom",
+            "repo": "frida-scripts",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboDroid",
+          "description": "A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-15T09:52:14Z",
+            "owner": "cybersecsi",
+            "repo": "robodroid",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easy-frida",
+          "description": "A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-11T04:35:34Z",
+            "owner": "tacesrever",
+            "repo": "easy-frida",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rekit",
+          "description": "Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T05:52:52Z",
+            "owner": "b-erdem",
+            "repo": "rekit",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "r2con 2016 - r2frida",
+          "description": "(PDF · Recording)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-10-26T19:19:20Z",
+            "owner": "radareorg",
+            "repo": "r2con",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLUUG 2015",
+          "description": "Frida: Putting the open back into closed software (Slides · Demos · Recording)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-18T00:37:05Z",
+            "owner": "frida",
+            "repo": "frida-presentations",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroNights 2015",
+          "description": "Cross-platform reversing with Frida (PDF · Demos)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-18T00:37:05Z",
+            "owner": "frida",
+            "repo": "frida-presentations",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Talks & Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "objection",
+          "description": "Runtime Mobile Exploration for iOS and Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T13:40:22Z",
+            "owner": "sensepost",
+            "repo": "objection",
+            "stars": 9313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Runtime Mobile Security (RMS)",
+          "description": "A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T21:28:34Z",
+            "owner": "m0bilesecurity",
+            "repo": "RMS-Runtime-Mobile-Security",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brida",
+          "description": "Bridge between Burp Suite and Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-30T13:47:46Z",
+            "owner": "federicodotta",
+            "repo": "Brida",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "passionfruit",
+          "description": "iOS App Analyzer with Web UI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2021-11-14T20:51:08Z",
+            "owner": "chaitin",
+            "repo": "passionfruit",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appmon",
+          "description": "Runtime Security Testing Framework for iOS, Mac OS X and Android Apps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-05-01T20:29:15Z",
+            "owner": "dpnishant",
+            "repo": "appmon",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bagbak",
+          "description": "Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T09:46:16Z",
+            "owner": "ChiChou",
+            "repo": "bagbak",
+            "stars": 1483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "House",
+          "description": "A runtime mobile application analysis toolkit with a Web GUI, powered by Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-03T05:20:20Z",
+            "owner": "nccgroup",
+            "repo": "house",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2frida",
+          "description": "memory search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:46:22Z",
+            "owner": "nowsecure",
+            "repo": "r2frida",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dwarf",
+          "description": "A debugger built on top of PyQt5 and frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T07:32:52Z",
+            "owner": "iGio90",
+            "repo": "Dwarf",
+            "stars": 1317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dexcalibur",
+          "description": "A dynamic binary instrumentation tool designed for Android apps and powered by Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:51:09Z",
+            "owner": "reversenseorg",
+            "repo": "dexcalibur",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/ssl_logger",
+          "description": "Decrypts and logs a process's SSL traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-10-20T11:32:22Z",
+            "owner": "google",
+            "repo": "ssl_logger",
+            "stars": 1119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fridump",
+          "description": "A universal memory dumper using Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T13:03:21Z",
+            "owner": "Nightbringer21",
+            "repo": "fridump",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoShark",
+          "description": "Self-optimizing cross-platform code tracer based on dynamic recompilation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-20T01:47:26Z",
+            "owner": "frida",
+            "repo": "cryptoshark",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "friTap",
+          "description": "Decrypts and logs a process's SSL/TLS traffic on all major platforms. Beside this it intercepts the generation of encryption keys used by SSL/TLS and logs them as a SSLKEYLOGFILE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:37:32Z",
+            "owner": "fkie-cad",
+            "repo": "friTap",
+            "stars": 534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/tcp_killer",
+          "description": "Shuts down a TCP connection based using output from a cmd.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-10-08T03:32:43Z",
+            "owner": "google",
+            "repo": "tcp_killer",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r2frida-wiki",
+          "description": "Unofficial wiki that provides practical examples on how to use r2frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-11T12:21:08Z",
+            "owner": "enovella",
+            "repo": "r2frida-wiki",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diff-gui",
+          "description": "Web GUI for instrumenting Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-03T11:23:25Z",
+            "owner": "antojoseph",
+            "repo": "diff-gui",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CatFrida",
+          "description": "A macOS app for inspecting a running iOS app. Building with frida-swift, CatFrida provide an awesome easy way to dive into an app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-20T10:00:10Z",
+            "owner": "neil-wu",
+            "repo": "CatFrida",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frida-extract",
+          "description": "Automatically extract and reconstruct a PE file that has been injected using the RunPE method",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-02T04:24:56Z",
+            "owner": "OALabs",
+            "repo": "frida-extract",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAPIMonitor",
+          "description": "Python API Monitor for Android apps is a tool, powered by Frida, to monitor user-selected APIs during app execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-04T11:06:44Z",
+            "owner": "0xdad0",
+            "repo": "PAPIMonitor",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora",
+          "description": "Web app built on top of Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-10T01:39:05Z",
+            "owner": "frida",
+            "repo": "aurora",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSpy",
+          "description": "Web app built on top of Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-11T22:53:43Z",
+            "owner": "frida",
+            "repo": "cloudspy",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LobotomyLobotomy Fork",
+          "description": "Android Reverse Engineering Framework & Toolkit",
+          "children": []
+        }
+      ],
+      "title": "Powered by Frida"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:17.272Z",
+    "original_repository": "dweinstein/awesome-frida",
+    "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
+    "enhanced_repository": "enhansome/enhansome-frida",
+    "enhanced_repository_description": null,
+    "title": "Awesome Frida with stars"
+  }
+}
