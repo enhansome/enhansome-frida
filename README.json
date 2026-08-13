@@ -471,7 +471,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9313
+            "stars": 9314
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3064
+            "stars": 3065
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1483
+            "stars": 1484
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2024-05-16T07:32:52Z",
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1317
+            "stars": 1316
           }
         },
         {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:17.272Z",
+    "last_updated": "2026-08-13T16:36:22.551Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",
