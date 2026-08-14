@@ -221,7 +221,7 @@
             "last_commit": "2024-11-29T15:02:23Z",
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2532
+            "stars": 2531
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-02T21:39:51Z",
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1651
+            "stars": 1650
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9314
+            "stars": 9313
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3065
+            "stars": 3068
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2023-05-01T20:29:15Z",
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1631
+            "stars": 1630
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1484
+            "stars": 1485
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2026-08-10T14:37:32Z",
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 534
+            "stars": 535
           }
         },
         {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:36:22.551Z",
+    "last_updated": "2026-08-14T16:33:23.577Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",
