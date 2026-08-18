@@ -235,7 +235,7 @@
             "last_commit": "2026-08-02T21:39:51Z",
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1651
+            "stars": 1650
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9319
+            "stars": 9323
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3069
+            "stars": 3070
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-10-30T13:47:46Z",
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1887
+            "stars": 1888
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2021-06-03T05:20:20Z",
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1465
+            "stars": 1464
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-11T19:51:09Z",
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1167
+            "stars": 1168
           }
         },
         {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:57:54.819Z",
+    "last_updated": "2026-08-18T16:02:58.382Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",
