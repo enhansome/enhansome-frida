@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Frida is Greasemonkey for native apps, or, put in more technical terms, it’s a dynamic code instrumentation toolkit. It lets you inject snippets of JavaScript into native apps that run on Windows, Mac, Linux, iOS and Android.\nFrida is an open source software.\nMore info here.",
-      "items": [],
-      "title": "What is Frida?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52353919,
             "language": "Python",
             "last_commit": "2019-07-30T14:04:52Z",
             "owner": "antojoseph",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53356872,
             "language": "JavaScript",
             "last_commit": "2025-06-16T11:51:14Z",
             "owner": "nowsecure",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57397831,
             "language": "JavaScript",
             "last_commit": "2026-03-27T13:56:33Z",
             "owner": "frida",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93289401,
             "language": "Java",
             "last_commit": "2018-04-14T09:20:15Z",
             "owner": "Piasy",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51963196,
             "language": "JavaScript",
             "last_commit": "2025-06-16T09:21:30Z",
             "owner": "nowsecure",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51963094,
             "language": "TypeScript",
             "last_commit": "2026-02-18T00:14:46Z",
             "owner": "nowsecure",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51963213,
             "language": "JavaScript",
             "last_commit": "2025-06-16T09:24:32Z",
             "owner": "nowsecure",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60615275,
             "language": "TypeScript",
             "last_commit": "2026-03-25T22:11:30Z",
             "owner": "nowsecure",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86564493,
             "language": "Python",
             "last_commit": "2022-12-26T07:46:05Z",
             "owner": "TamerPlatform",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39504051,
             "language": "JavaScript",
             "last_commit": "2016-09-01T17:32:45Z",
             "owner": "dweinstein",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60616796,
             "language": "TypeScript",
             "last_commit": "2025-06-16T09:27:32Z",
             "owner": "nowsecure",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53804796,
             "language": "JavaScript",
             "last_commit": "2019-08-19T11:55:26Z",
             "owner": "nowsecure",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60614815,
             "language": "TypeScript",
             "last_commit": "2024-01-22T10:26:04Z",
             "owner": "nowsecure",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45713722,
             "language": "JavaScript",
             "last_commit": "2017-08-09T11:16:43Z",
             "owner": "frida",
@@ -208,7 +217,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130721132,
             "language": "JavaScript",
             "last_commit": "2024-11-29T15:02:23Z",
             "owner": "iddoeldor",
@@ -231,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101912162,
             "language": "JavaScript",
             "last_commit": "2026-08-02T21:39:51Z",
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1650
+            "stars": 1651
           }
         },
         {
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35610263,
             "language": "TypeScript",
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67085858,
             "language": "C",
             "last_commit": "2023-03-04T04:31:57Z",
             "owner": "nowsecure",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297618010,
             "language": "Python",
             "last_commit": "2020-11-02T11:41:55Z",
             "owner": "tcc0lin",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54850624,
             "language": "JavaScript",
             "last_commit": "2021-12-21T09:19:42Z",
             "owner": "as0ler",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278300492,
             "language": "JavaScript",
             "last_commit": "2021-09-24T08:03:09Z",
             "owner": "monkeylord",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90284203,
             "language": "C",
             "last_commit": "2020-05-26T16:56:39Z",
             "owner": "oleavr",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15598509,
             "language": "Python",
             "last_commit": "2019-06-27T17:28:44Z",
             "owner": "poxyran",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32653721,
             "language": "Python",
             "last_commit": "2015-04-05T07:30:22Z",
             "owner": "techbliss",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129847959,
             "language": "JavaScript",
             "last_commit": "2019-07-29T04:53:03Z",
             "owner": "davuxcom",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627504900,
             "language": "Python",
             "last_commit": "2024-01-15T09:52:14Z",
             "owner": "cybersecsi",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229845397,
             "language": "C++",
             "last_commit": "2025-07-11T04:35:34Z",
             "owner": "tacesrever",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203733288,
             "language": "Python",
             "last_commit": "2026-05-01T05:52:52Z",
             "owner": "b-erdem",
@@ -410,7 +433,7 @@
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -419,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67366110,
             "language": "Makefile",
             "last_commit": "2025-10-26T19:19:20Z",
             "owner": "radareorg",
@@ -433,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9835499,
             "language": "JavaScript",
             "last_commit": "2019-08-18T00:37:05Z",
             "owner": "frida",
@@ -447,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9835499,
             "language": "JavaScript",
             "last_commit": "2019-08-18T00:37:05Z",
             "owner": "frida",
@@ -458,7 +484,7 @@
       "title": "Talks & Papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -467,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95770373,
             "language": "Python",
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9323
+            "stars": 9327
           }
         },
         {
@@ -481,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250552704,
             "language": "JavaScript",
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3070
+            "stars": 3071
           }
         },
         {
@@ -495,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98666120,
             "language": "Java",
             "last_commit": "2025-10-30T13:47:46Z",
             "owner": "federicodotta",
@@ -509,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84626055,
             "language": "Vue",
             "last_commit": "2021-11-14T20:51:08Z",
             "owner": "chaitin",
@@ -523,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57376133,
             "language": "JavaScript",
             "last_commit": "2023-05-01T20:29:15Z",
             "owner": "dpnishant",
@@ -537,11 +568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135033395,
             "language": "TypeScript",
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -551,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135610584,
             "language": "JavaScript",
             "last_commit": "2021-06-03T05:20:20Z",
             "owner": "nccgroup",
@@ -565,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35610263,
             "language": "TypeScript",
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162325852,
             "language": "Python",
             "last_commit": "2024-05-16T07:32:52Z",
             "owner": "iGio90",
@@ -593,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171117490,
             "language": "TypeScript",
             "last_commit": "2026-08-11T19:51:09Z",
             "owner": "reversenseorg",
@@ -607,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95790766,
             "language": "Python",
             "last_commit": "2020-10-20T11:32:22Z",
             "owner": "google",
@@ -621,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58191695,
             "language": "Python",
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
@@ -635,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461980,
             "language": "C++",
             "last_commit": "2022-07-20T01:47:26Z",
             "owner": "frida",
@@ -649,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411940494,
             "language": "Python",
             "last_commit": "2026-08-10T14:37:32Z",
             "owner": "fkie-cad",
@@ -663,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95790829,
             "language": "Python",
             "last_commit": "2020-10-08T03:32:43Z",
             "owner": "google",
@@ -677,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153009971,
             "language": null,
             "last_commit": "2020-12-11T12:21:08Z",
             "owner": "enovella",
@@ -691,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62171810,
             "language": "JavaScript",
             "last_commit": "2016-11-03T11:23:25Z",
             "owner": "antojoseph",
@@ -705,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329945114,
             "language": "C",
             "last_commit": "2021-01-20T10:00:10Z",
             "owner": "neil-wu",
@@ -719,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65348692,
             "language": "JavaScript",
             "last_commit": "2017-03-02T04:24:56Z",
             "owner": "OALabs",
@@ -733,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241664741,
             "language": "JavaScript",
             "last_commit": "2024-07-04T11:06:44Z",
             "owner": "0xdad0",
@@ -747,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9835450,
             "language": "JavaScript",
             "last_commit": "2015-05-10T01:39:05Z",
             "owner": "frida",
@@ -761,26 +808,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9835040,
             "language": "JavaScript",
             "last_commit": "2015-04-11T22:53:43Z",
             "owner": "frida",
             "repo": "cloudspy",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "LobotomyLobotomy Fork",
-          "description": "Android Reverse Engineering Framework & Toolkit",
-          "children": []
         }
       ],
       "title": "Powered by Frida"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:02:58.382Z",
+    "last_updated": "2026-08-19T12:30:37.553Z",
     "original_repository": "dweinstein/awesome-frida",
+    "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",
     "enhanced_repository_description": null,
