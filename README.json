@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9327
+            "stars": 9328
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:37.553Z",
+    "last_updated": "2026-08-19T16:03:20.448Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
