@@ -261,7 +261,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1433
+            "stars": 1434
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9328
+            "stars": 9330
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-10-30T13:47:46Z",
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1888
+            "stars": 1889
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1487
+            "stars": 1489
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2021-06-03T05:20:20Z",
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1464
+            "stars": 1463
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1433
+            "stars": 1434
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:03:20.448Z",
+    "last_updated": "2026-08-20T16:05:23.072Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
