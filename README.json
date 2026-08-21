@@ -258,7 +258,7 @@
             "archived": false,
             "id": 35610263,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:46:22Z",
+            "last_commit": "2026-08-21T13:48:23Z",
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1434
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9330
+            "stars": 9334
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3072
+            "stars": 3071
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1489
+            "stars": 1491
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 35610263,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:46:22Z",
+            "last_commit": "2026-08-21T13:48:23Z",
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1434
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-11T19:51:09Z",
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1168
+            "stars": 1167
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-10T14:37:32Z",
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 535
+            "stars": 536
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:05:23.072Z",
+    "last_updated": "2026-08-21T16:04:52.805Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
