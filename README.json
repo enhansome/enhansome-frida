@@ -231,7 +231,7 @@
             "last_commit": "2024-11-29T15:02:23Z",
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2532
+            "stars": 2533
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-02T21:39:51Z",
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1652
+            "stars": 1653
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9336
+            "stars": 9338
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1491
+            "stars": 1492
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-11T19:51:09Z",
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1167
+            "stars": 1168
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:57:38.245Z",
+    "last_updated": "2026-08-23T15:58:31.935Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
