@@ -447,7 +447,7 @@
             "last_commit": "2025-10-26T19:19:20Z",
             "owner": "radareorg",
             "repo": "r2con",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9338
+            "stars": 9341
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1492
+            "stars": 1493
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:58:31.935Z",
+    "last_updated": "2026-08-24T13:58:28.885Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
