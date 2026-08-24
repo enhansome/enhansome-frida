@@ -165,7 +165,7 @@ Also, if you notice that a listing should be deprecated or replaced:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,513 | 🐛 5 | 📅 2026-04-10
+More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,514 | 🐛 5 | 📅 2026-04-10
 
 <a name="credits" />
 
