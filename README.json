@@ -258,7 +258,7 @@
             "archived": false,
             "id": 35610263,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:48:23Z",
+            "last_commit": "2026-08-24T23:25:59Z",
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1434
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9341
+            "stars": 9343
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 35610263,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:48:23Z",
+            "last_commit": "2026-08-24T23:25:59Z",
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1434
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:16:37.315Z",
+    "last_updated": "2026-08-25T05:56:18.395Z",
     "original_repository": "dweinstein/awesome-frida",
     "original_repository_id": 58385310,
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
