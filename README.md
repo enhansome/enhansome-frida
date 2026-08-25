@@ -90,12 +90,12 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,343 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,072 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [objection](https://github.com/sensepost/objection) ⭐ 9,345 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,074 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,889 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,493 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,494 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [House](https://github.com/nccgroup/house) ⭐ 1,463 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,434 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 * [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,316 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
@@ -165,7 +165,7 @@ Also, if you notice that a listing should be deprecated or replaced:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,515 | 🐛 5 | 📅 2026-04-10
+More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,516 | 🐛 5 | 📅 2026-04-10
 
 <a name="credits" />
 
