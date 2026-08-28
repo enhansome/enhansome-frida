@@ -15,7 +15,7 @@
             "last_commit": "2019-07-30T14:04:52Z",
             "owner": "antojoseph",
             "repo": "frida-android-hooks",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-06-16T11:51:14Z",
             "owner": "nowsecure",
             "repo": "frida-trace",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-27T13:56:33Z",
             "owner": "frida",
             "repo": "frida-compile",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2018-04-14T09:20:15Z",
             "owner": "Piasy",
             "repo": "FridaAndroidTracer",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-02-18T00:14:46Z",
             "owner": "nowsecure",
             "repo": "frida-screenshot",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-06-16T09:24:32Z",
             "owner": "nowsecure",
             "repo": "frida-uiwebview",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-03-25T22:11:30Z",
             "owner": "nowsecure",
             "repo": "frida-fs",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2022-12-26T07:46:05Z",
             "owner": "TamerPlatform",
             "repo": "frida-push",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2016-09-01T17:32:45Z",
             "owner": "dweinstein",
             "repo": "node-frida-contrib",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2019-08-19T11:55:26Z",
             "owner": "nowsecure",
             "repo": "frida-panic",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-11-29T15:02:23Z",
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2533
+            "stars": 2535
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-02T21:39:51Z",
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1653
+            "stars": 1654
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-24T23:25:59Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2023-03-04T04:31:57Z",
             "owner": "nowsecure",
             "repo": "frida-cycript",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2021-12-21T09:19:42Z",
             "owner": "as0ler",
             "repo": "frida-scripts",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2021-09-24T08:03:09Z",
             "owner": "monkeylord",
             "repo": "XposedFridaBridge",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2020-05-26T16:56:39Z",
             "owner": "oleavr",
             "repo": "ios-inject-custom",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2015-04-05T07:30:22Z",
             "owner": "techbliss",
             "repo": "Frida_For_Ida_Pro",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2019-07-29T04:53:03Z",
             "owner": "davuxcom",
             "repo": "frida-scripts",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2025-07-11T04:35:34Z",
             "owner": "tacesrever",
             "repo": "easy-frida",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-01T05:52:52Z",
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -462,7 +462,7 @@
             "last_commit": "2019-08-18T00:37:05Z",
             "owner": "frida",
             "repo": "frida-presentations",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2019-08-18T00:37:05Z",
             "owner": "frida",
             "repo": "frida-presentations",
-            "stars": 102
+            "stars": 103
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-10-30T13:47:46Z",
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1889
+            "stars": 1890
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2023-05-01T20:29:15Z",
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1494
+            "stars": 1495
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2021-06-03T05:20:20Z",
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-24T23:25:59Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2024-05-16T07:32:52Z",
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1317
+            "stars": 1318
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2024-08-07T13:03:21Z",
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2020-12-11T12:21:08Z",
             "owner": "enovella",
             "repo": "r2frida-wiki",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2016-11-03T11:23:25Z",
             "owner": "antojoseph",
             "repo": "diff-gui",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2021-01-20T10:00:10Z",
             "owner": "neil-wu",
             "repo": "CatFrida",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2017-03-02T04:24:56Z",
             "owner": "OALabs",
             "repo": "frida-extract",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:53.348Z",
+    "last_updated": "2026-08-28T00:36:39.881Z",
     "original_repository_info": {
       "archived": false,
       "id": 58385310,
@@ -829,7 +829,7 @@
       "last_commit": "2026-04-10T19:33:21Z",
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3517
+      "stars": 3518
     },
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",
