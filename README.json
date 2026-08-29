@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lets you hook  Method Calls in Frida ( Android )",
+            "homepage": null,
             "id": 52353919,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-30T14:04:52Z",
+            "open_issues": 1,
             "owner": "antojoseph",
             "repo": "frida-android-hooks",
-            "stars": 397
+            "stars": 397,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trace APIs declaratively through Frida.",
+            "homepage": null,
             "id": 53356872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-16T11:51:14Z",
+            "open_issues": 20,
             "owner": "nowsecure",
             "repo": "frida-trace",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "frida",
+              "nowsecure",
+              "trace"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile a Frida script comprised of one or more Node.js modules",
+            "homepage": null,
             "id": 57397831,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-27T13:56:33Z",
+            "open_issues": 36,
             "owner": "frida",
             "repo": "frida-compile",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -58,12 +77,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A runnable jar that generate Javascript hook script to hook Android classes.",
+            "homepage": null,
             "id": 93289401,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-04-14T09:20:15Z",
+            "open_issues": 0,
             "owner": "Piasy",
             "repo": "FridaAndroidTracer",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "android",
+              "frida",
+              "hook"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -74,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspect and manipulate UIKit-based GUIs through Frida.",
+            "homepage": null,
             "id": 51963196,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-16T09:21:30Z",
+            "open_issues": 4,
             "owner": "nowsecure",
             "repo": "frida-uikit",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -90,12 +123,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grab screenshots using Frida.",
+            "homepage": null,
             "id": 51963094,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-18T00:14:46Z",
+            "open_issues": 0,
             "owner": "nowsecure",
             "repo": "frida-screenshot",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "frida",
+              "frida-screenshot",
+              "ios",
+              "nodejs",
+              "screenshot"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -106,12 +150,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspect and manipulate UIWebView-hosted GUIs through Frida.",
+            "homepage": null,
             "id": 51963213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-16T09:24:32Z",
+            "open_issues": 0,
             "owner": "nowsecure",
             "repo": "frida-uiwebview",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "frida",
+              "nowsecure",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -122,12 +175,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a stream from a filesystem resource.",
+            "homepage": null,
             "id": 60615275,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T22:11:30Z",
+            "open_issues": 7,
             "owner": "nowsecure",
             "repo": "frida-fs",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "frida"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -138,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper tool to identify the remote device and push device specific frida-server binary.",
+            "homepage": null,
             "id": 86564493,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-26T07:46:05Z",
+            "open_issues": 12,
             "owner": "TamerPlatform",
             "repo": "frida-push",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -154,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "frida utility-belt",
+            "homepage": null,
             "id": 39504051,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-01T17:32:45Z",
+            "open_issues": 2,
             "owner": "dweinstein",
             "repo": "node-frida-contrib",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -170,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create an outbound stream over a message transport.",
+            "homepage": null,
             "id": 60616796,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-16T09:27:32Z",
+            "open_issues": 1,
             "owner": "nowsecure",
             "repo": "frida-remote-stream",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -186,12 +261,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy crash-reporting for Frida-based applications.",
+            "homepage": null,
             "id": 53804796,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-19T11:55:26Z",
+            "open_issues": 3,
             "owner": "nowsecure",
             "repo": "frida-panic",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "frida"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -202,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a stream from one or more memory regions.",
+            "homepage": null,
             "id": 60614815,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-22T10:26:04Z",
+            "open_issues": 0,
             "owner": "nowsecure",
             "repo": "frida-memory-stream",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -218,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load a Frida script comprised of one or more Node.js modules",
+            "homepage": null,
             "id": 45713722,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-08-09T11:16:43Z",
+            "open_issues": 0,
             "owner": "frida",
             "repo": "frida-load",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         }
@@ -240,12 +332,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand-crafted Frida examples",
+            "homepage": null,
             "id": 130721132,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-29T15:02:23Z",
+            "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2535
+            "stars": 2535,
+            "topics": [
+              "aarch64",
+              "android",
+              "arm64",
+              "dynamic-analysis",
+              "frida",
+              "hooking",
+              "instrumentation",
+              "ios",
+              "java",
+              "java-native-interface",
+              "mobile-security",
+              "objective-c",
+              "reverse-engineering",
+              "runtime-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -256,12 +368,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.",
+            "homepage": "https://www.frida.re",
             "id": 101912162,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T21:39:51Z",
+            "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "android",
+              "frida",
+              "ios",
+              "linux",
+              "mobile",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -272,12 +396,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radare2 and Frida better together.",
+            "homepage": null,
             "id": 35610263,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:25:59Z",
+            "open_issues": 44,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1435
+            "stars": 1435,
+            "topics": [
+              "android-security",
+              "dynamic-analysis",
+              "frida",
+              "ios-security",
+              "radare2",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -288,12 +424,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cycript fork powered by Frida.",
+            "homepage": null,
             "id": 67085858,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-04T04:31:57Z",
+            "open_issues": 13,
             "owner": "nowsecure",
             "repo": "frida-cycript",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "cylang",
+              "dsl",
+              "frida",
+              "ios",
+              "nodejs",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -304,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于FastAPI实现的Frida-RPC工具，自动解析JavaScript文件生成对应API接口",
+            "homepage": null,
             "id": 297618010,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-02T11:41:55Z",
+            "open_issues": 3,
             "owner": "tcc0lin",
             "repo": "arida",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -320,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository including some useful frida script for iOS Reversing",
+            "homepage": null,
             "id": 54850624,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-21T09:19:42Z",
+            "open_issues": 0,
             "owner": "as0ler",
             "repo": "frida-scripts",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -336,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.",
+            "homepage": null,
             "id": 278300492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-24T08:03:09Z",
+            "open_issues": 3,
             "owner": "monkeylord",
             "repo": "XposedFridaBridge",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -352,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example showing how to use Frida for standalone injection of a custom payload",
+            "homepage": null,
             "id": 90284203,
             "language": "C",
+            "license": "Unlicense",
             "last_commit": "2020-05-26T16:56:39Z",
+            "open_issues": 1,
             "owner": "oleavr",
             "repo": "ios-inject-custom",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -368,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Miscellaneous programs/scripts to make your life a little less painful",
+            "homepage": null,
             "id": 15598509,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-27T17:28:44Z",
+            "open_issues": 0,
             "owner": "poxyran",
             "repo": "misc",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -384,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frida PluginFor Ida Pro",
+            "homepage": null,
             "id": 32653721,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-04-05T07:30:22Z",
+            "open_issues": 1,
             "owner": "techbliss",
             "repo": "Frida_For_Ida_Pro",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -400,12 +578,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inject JS and C# into Windows apps, call COM and WinRT APIs",
+            "homepage": null,
             "id": 129847959,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-07-29T04:53:03Z",
+            "open_issues": 2,
             "owner": "davuxcom",
             "repo": "frida-scripts",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "com",
+              "framework",
+              "frida",
+              "frida-javascript",
+              "hooking",
+              "win32",
+              "win32api",
+              "win32com",
+              "windows",
+              "windows10",
+              "winrt"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -416,12 +611,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Android machines with pre-defined behaviors for Cyber Range environments.",
+            "homepage": "https://robodroid.secsi.io",
             "id": 627504900,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-15T09:52:14Z",
+            "open_issues": 4,
             "owner": "cybersecsi",
             "repo": "robodroid",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "android",
+              "cyber-range",
+              "cyberrange",
+              "cybersecurity",
+              "frida",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -432,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple tool for easyily dev/debug using frida and write module for agent. (mainly used for android)",
+            "homepage": null,
             "id": 229845397,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-07-11T04:35:34Z",
+            "open_issues": 0,
             "owner": "tacesrever",
             "repo": "easy-frida",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -448,12 +660,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse Engineering Toolkit for Mobile APIs — 14 tools: traffic capture, client generation, TLS/HTTP2 fingerprinting, bot detection, token analysis, auth flow mapping, protobuf decoding, JS bundle scanning, cert pinning bypass, rate limit probing, mock servers, schema comparison",
+            "homepage": null,
             "id": 1203733288,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T05:52:52Z",
+            "open_issues": 0,
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "android",
+              "api",
+              "apk",
+              "bot-detection",
+              "curl-cffi",
+              "frida",
+              "har",
+              "mitm",
+              "mobile",
+              "python",
+              "reverse-engineering",
+              "security",
+              "tls-fingerprinting",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         }
@@ -470,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radare Congress Stuff",
+            "homepage": null,
             "id": 67366110,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2025-10-26T19:19:20Z",
+            "open_issues": 1,
             "owner": "radareorg",
             "repo": "r2con",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -486,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public presentations given on Frida at conferences",
+            "homepage": null,
             "id": 9835499,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-08-18T00:37:05Z",
+            "open_issues": 0,
             "owner": "frida",
             "repo": "frida-presentations",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -502,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public presentations given on Frida at conferences",
+            "homepage": null,
             "id": 9835499,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-08-18T00:37:05Z",
+            "open_issues": 0,
             "owner": "frida",
             "repo": "frida-presentations",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         }
@@ -524,12 +771,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱 objection - runtime mobile exploration",
+            "homepage": null,
             "id": 95770373,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T13:40:22Z",
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9350
+            "stars": 9350,
+            "topics": [
+              "android",
+              "framework",
+              "frida",
+              "instrumentation",
+              "ios",
+              "mobile",
+              "pentest",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -540,12 +801,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+            "homepage": "https://twitter.com/mobilesecurity_",
             "id": 250552704,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-03T21:28:34Z",
+            "open_issues": 8,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3077
+            "stars": 3077,
+            "topics": [
+              "android-security",
+              "frida",
+              "ios-security",
+              "mobile-security",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -556,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The new bridge between Burp Suite and Frida!",
+            "homepage": null,
             "id": 98666120,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-10-30T13:47:46Z",
+            "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1890
+            "stars": 1890,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -572,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[WIP] Crappy iOS app analyzer",
+            "homepage": null,
             "id": 84626055,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-11-14T20:51:08Z",
+            "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1668
+            "stars": 1668,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -588,12 +870,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Documentation:",
+            "homepage": "http://dpnishant.github.io/appmon",
             "id": 57376133,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-01T20:29:15Z",
+            "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1631
+            "stars": 1631,
+            "topics": [
+              "android",
+              "appmon",
+              "frida",
+              "instrumentation",
+              "ios-app",
+              "macos-app",
+              "mobile-security",
+              "reverse-engineering",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -604,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions",
+            "homepage": null,
             "id": 135033395,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T09:46:16Z",
+            "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1495
+            "stars": 1496,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -620,12 +922,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.",
+            "homepage": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/june/house-a-mobile-analysis-platform-built-on-frida/",
             "id": 135610584,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-03T05:20:20Z",
+            "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1464
+            "stars": 1464,
+            "topics": [
+              "android",
+              "frida",
+              "mobile",
+              "pentest-tool"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -636,12 +948,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radare2 and Frida better together.",
+            "homepage": null,
             "id": 35610263,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:25:59Z",
+            "open_issues": 44,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1435
+            "stars": 1435,
+            "topics": [
+              "android-security",
+              "dynamic-analysis",
+              "frida",
+              "ios-security",
+              "radare2",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -652,12 +976,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida",
+            "homepage": null,
             "id": 162325852,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-16T07:32:52Z",
+            "open_issues": 5,
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1318
+            "stars": 1318,
+            "topics": [
+              "android",
+              "capstone-engine",
+              "cracking",
+              "frida",
+              "ios",
+              "keystone-engine",
+              "linux",
+              "pyqt5",
+              "reverse-engineering",
+              "unicorn-emulator",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -668,12 +1009,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary intelligence platform that automates the reverse engineering of mobile and embedded applications. ",
+            "homepage": null,
             "id": 171117490,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-11T19:51:09Z",
+            "open_issues": 36,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1168
+            "stars": 1168,
+            "topics": [
+              "analysis",
+              "android",
+              "android-security",
+              "apk",
+              "binary-analysis",
+              "dex",
+              "frida",
+              "frida-gadget",
+              "frida-node",
+              "fuzzing",
+              "hook",
+              "hooking",
+              "instrumentation-automation",
+              "ios",
+              "mobile-security",
+              "reverse",
+              "reverse-engineering",
+              "security-tools",
+              "smali"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -684,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Decrypts and logs a process's SSL traffic.",
+            "homepage": null,
             "id": 95790766,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-20T11:32:22Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "ssl_logger",
-            "stars": 1119
+            "stars": 1119,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -700,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal memory dumper using Frida",
+            "homepage": null,
             "id": 58191695,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-07T13:03:21Z",
+            "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 859
+            "stars": 859,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -716,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-optimizing cross-platform code tracer based on dynamic recompilation",
+            "homepage": null,
             "id": 20461980,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-20T01:47:26Z",
+            "open_issues": 13,
             "owner": "frida",
             "repo": "cryptoshark",
-            "stars": 601
+            "stars": 601,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -732,12 +1113,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplifying encrypted traffic analysis for researchers by making protocol decryption effortless.",
+            "homepage": "https://fkie-cad.github.io/friTap/",
             "id": 411940494,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-10T14:37:32Z",
+            "open_issues": 8,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "android",
+              "android-https-capture",
+              "binary-analysis",
+              "frida",
+              "hooking",
+              "https",
+              "linux",
+              "network-analysis",
+              "network-capture",
+              "network-forensics",
+              "security",
+              "security-audit",
+              "ssl",
+              "ssldump",
+              "tcpdump",
+              "tls"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -748,12 +1151,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.",
+            "homepage": null,
             "id": 95790829,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-08T03:32:43Z",
+            "open_issues": 3,
             "owner": "google",
             "repo": "tcp_killer",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -764,12 +1172,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo aims at providing practical examples on how to use r2frida",
+            "homepage": null,
             "id": 153009971,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-11T12:21:08Z",
+            "open_issues": 2,
             "owner": "enovella",
             "repo": "r2frida-wiki",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "dynamic-analysis",
+              "frida",
+              "r2frida",
+              "radare2",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -780,12 +1199,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI for Frida -Scripts ",
+            "homepage": null,
             "id": 62171810,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-03T11:23:25Z",
+            "open_issues": 2,
             "owner": "antojoseph",
             "repo": "diff-gui",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "diff-gui",
+              "frida",
+              "frida-server",
+              "gui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -796,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CatFrida is a macOS tool for inspecting a running iOS app.",
+            "homepage": null,
             "id": 329945114,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-01-20T10:00:10Z",
+            "open_issues": 1,
             "owner": "neil-wu",
             "repo": "CatFrida",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -812,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frida.re based RunPE (and MapViewOfSection) extraction tool",
+            "homepage": null,
             "id": 65348692,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-02T04:24:56Z",
+            "open_issues": 1,
             "owner": "OALabs",
             "repo": "frida-extract",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -828,12 +1267,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python API Monitor for Android apps",
+            "homepage": null,
             "id": 241664741,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-04T11:06:44Z",
+            "open_issues": 3,
             "owner": "0xdad0",
             "repo": "PAPIMonitor",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "android",
+              "api",
+              "cli",
+              "dynamic-analysis",
+              "frida",
+              "instrumentation",
+              "monitoring",
+              "papi"
+            ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -844,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof-of-concept web app built on top of Frida",
+            "homepage": null,
             "id": 9835450,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-05-10T01:39:05Z",
+            "open_issues": 1,
             "owner": "frida",
             "repo": "aurora",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         },
@@ -860,12 +1318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof-of-concept web app built on top of Frida",
+            "homepage": null,
             "id": 9835040,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-04-11T22:53:43Z",
+            "open_issues": 0,
             "owner": "frida",
             "repo": "cloudspy",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
         }
@@ -874,15 +1337,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:07:49.332Z",
+    "last_updated": "2026-08-29T04:20:13.123Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
+      "homepage": null,
       "id": 58385310,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-10T19:33:21Z",
+      "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3518
+      "stars": 3518,
+      "topics": [
+        "android",
+        "awesome",
+        "dynamic-analysis",
+        "frida",
+        "hooking",
+        "ios",
+        "r2frida"
+      ]
     },
     "original_repository_sha": "e20da3b2ae3a30cd65ab0e4a0f0345bb909ecb10",
     "enhanced_repository": "enhansome/enhansome-frida",

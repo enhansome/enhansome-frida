@@ -95,7 +95,7 @@ More info [here](http://www.frida.re/).
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,890 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,495 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,496 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [House](https://github.com/nccgroup/house) ⭐ 1,464 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,435 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 * [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,318 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
