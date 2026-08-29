@@ -58,7 +58,7 @@ More info [here](http://www.frida.re/).
 * [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) ⭐ 171 | 🐛 1 | 🌐 C | 📅 2020-05-26 - use Frida for standalone injection of a custom payload for iOS.
 * [poxyran/misc](https://github.com/poxyran/misc) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27 - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27,
 * [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2015-04-05 - IDA Pro plugin
-* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 103 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
+* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 104 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
 * [RoboDroid](https://github.com/cybersecsi/robodroid) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2024-01-15 - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
 * [easy-frida](https://github.com/tacesrever/easy-frida) ⭐ 85 | 🐛 0 | 🌐 C++ | 📅 2025-07-11 - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 * [rekit](https://github.com/b-erdem/rekit) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-05-01 - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
@@ -90,8 +90,8 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,349 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,076 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [objection](https://github.com/sensepost/objection) ⭐ 9,350 | 🐛 55 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,077 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,890 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
@@ -171,8 +171,8 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 ## Credits
 
-* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
+* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,549 | 🐛 34 | 📅 2026-02-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

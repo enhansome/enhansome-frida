@@ -16,7 +16,8 @@
             "owner": "antojoseph",
             "repo": "frida-android-hooks",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nowsecure",
             "repo": "frida-trace",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "frida",
             "repo": "frida-compile",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Piasy",
             "repo": "FridaAndroidTracer",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "nowsecure",
             "repo": "frida-uikit",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nowsecure",
             "repo": "frida-screenshot",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "nowsecure",
             "repo": "frida-uiwebview",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "nowsecure",
             "repo": "frida-fs",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "TamerPlatform",
             "repo": "frida-push",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "dweinstein",
             "repo": "node-frida-contrib",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "nowsecure",
             "repo": "frida-remote-stream",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "nowsecure",
             "repo": "frida-panic",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "nowsecure",
             "repo": "frida-memory-stream",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "frida",
             "repo": "frida-load",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         }
       ],
       "title": "Libraries"
@@ -232,7 +246,8 @@
             "owner": "iddoeldor",
             "repo": "frida-snippets",
             "stars": 2535
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "0xdea",
             "repo": "frida-scripts",
             "stars": 1654
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1435
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "nowsecure",
             "repo": "frida-cycript",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "tcc0lin",
             "repo": "arida",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "as0ler",
             "repo": "frida-scripts",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "monkeylord",
             "repo": "XposedFridaBridge",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "oleavr",
             "repo": "ios-inject-custom",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "poxyran",
             "repo": "misc",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "techbliss",
             "repo": "Frida_For_Ida_Pro",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2019-07-29T04:53:03Z",
             "owner": "davuxcom",
             "repo": "frida-scripts",
-            "stars": 103
-          }
+            "stars": 104
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "cybersecsi",
             "repo": "robodroid",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "tacesrever",
             "repo": "easy-frida",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "b-erdem",
             "repo": "rekit",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         }
       ],
       "title": "Projects"
@@ -448,7 +476,8 @@
             "owner": "radareorg",
             "repo": "r2con",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "frida",
             "repo": "frida-presentations",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "frida",
             "repo": "frida-presentations",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         }
       ],
       "title": "Talks & Papers"
@@ -498,8 +529,9 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9349
-          }
+            "stars": 9350
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -513,8 +545,9 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3076
-          }
+            "stars": 3077
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "federicodotta",
             "repo": "Brida",
             "stars": 1890
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "chaitin",
             "repo": "passionfruit",
             "stars": 1668
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "dpnishant",
             "repo": "appmon",
             "stars": 1631
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "ChiChou",
             "repo": "bagbak",
             "stars": 1495
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "nccgroup",
             "repo": "house",
             "stars": 1464
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1435
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "iGio90",
             "repo": "Dwarf",
             "stars": 1318
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "reversenseorg",
             "repo": "dexcalibur",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "google",
             "repo": "ssl_logger",
             "stars": 1119
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "Nightbringer21",
             "repo": "fridump",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "frida",
             "repo": "cryptoshark",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "fkie-cad",
             "repo": "friTap",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "google",
             "repo": "tcp_killer",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "enovella",
             "repo": "r2frida-wiki",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "antojoseph",
             "repo": "diff-gui",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "neil-wu",
             "repo": "CatFrida",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "OALabs",
             "repo": "frida-extract",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "0xdad0",
             "repo": "PAPIMonitor",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "frida",
             "repo": "aurora",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         },
         {
           "node_type": "item",
@@ -814,14 +866,15 @@
             "owner": "frida",
             "repo": "cloudspy",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
         }
       ],
       "title": "Powered by Frida"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:36:39.881Z",
+    "last_updated": "2026-08-29T00:07:49.332Z",
     "original_repository_info": {
       "archived": false,
       "id": 58385310,
