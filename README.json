@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "android",
               "frida",
@@ -401,11 +401,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:41:07Z",
+            "last_commit": "2026-08-31T17:44:48Z",
             "open_issues": 44,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -780,7 +780,7 @@
             "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9352,
+            "stars": 9355,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 8,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3076,
+            "stars": 3077,
             "topics": [
               "android-security",
               "frida",
@@ -953,11 +953,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:41:07Z",
+            "last_commit": "2026-08-31T17:44:48Z",
             "open_issues": 44,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -1018,7 +1018,7 @@
             "open_issues": 36,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "analysis",
               "android",
@@ -1276,7 +1276,7 @@
             "open_issues": 3,
             "owner": "0xdad0",
             "repo": "PAPIMonitor",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "android",
               "api",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:48:41.608Z",
+    "last_updated": "2026-08-31T21:05:56.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
