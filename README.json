@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "android",
               "frida",
@@ -405,7 +405,7 @@
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9364,
+            "stars": 9365,
             "topics": [
               "android",
               "framework",
@@ -957,7 +957,7 @@
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -1014,7 +1014,7 @@
             "id": 171117490,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T16:01:18Z",
+            "last_commit": "2026-09-04T22:03:56Z",
             "open_issues": 37,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:33:44.267Z",
+    "last_updated": "2026-09-05T17:40:14.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
