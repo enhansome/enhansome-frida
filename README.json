@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9373,
+            "stars": 9374,
             "topics": [
               "android",
               "framework",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1891,
+            "stars": 1892,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -858,7 +858,7 @@
             "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1668,
+            "stars": 1667,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "android",
               "appmon",
@@ -1018,7 +1018,7 @@
             "open_issues": 37,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1171,
+            "stars": 1172,
             "topics": [
               "analysis",
               "android",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:58:27.035Z",
+    "last_updated": "2026-09-09T18:51:17.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3524,
+      "stars": 3526,
       "topics": [
         "android",
         "awesome",
