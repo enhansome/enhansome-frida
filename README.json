@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2535,
+            "stars": 2536,
             "topics": [
               "aarch64",
               "android",
@@ -401,11 +401,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:27:20Z",
+            "last_commit": "2026-09-09T22:23:05Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9374,
+            "stars": 9378,
             "topics": [
               "android",
               "framework",
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1501,
+            "stars": 1500,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,11 +953,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:27:20Z",
+            "last_commit": "2026-09-09T22:23:05Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:51:17.063Z",
+    "last_updated": "2026-09-10T18:41:00.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
