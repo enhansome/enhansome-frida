@@ -405,7 +405,7 @@
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9378,
+            "stars": 9380,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 9,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "android-security",
               "frida",
@@ -957,7 +957,7 @@
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1318,
+            "stars": 1319,
             "topics": [
               "android",
               "capstone-engine",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:41:00.060Z",
+    "last_updated": "2026-09-11T18:44:47.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3526,
+      "stars": 3529,
       "topics": [
         "android",
         "awesome",
