@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9380,
+            "stars": 9383,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 9,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3083,
+            "stars": 3084,
             "topics": [
               "android-security",
               "frida",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1892,
+            "stars": 1894,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:44:47.972Z",
+    "last_updated": "2026-09-12T17:51:00.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",

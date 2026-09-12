@@ -90,9 +90,9 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,380 | 🐛 57 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,083 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
-* [brida](https://github.com/federicodotta/Brida) ⭐ 1,892 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
+* [objection](https://github.com/sensepost/objection) ⭐ 9,383 | 🐛 57 | 🌐 Python | 📅 2026-07-23 - Runtime Mobile Exploration for iOS and Android
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,084 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [brida](https://github.com/federicodotta/Brida) ⭐ 1,894 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
 * [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,500 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
@@ -175,4 +175,4 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
