@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:05:20Z",
+            "last_commit": "2026-09-16T01:08:26Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9389,
+            "stars": 9392,
             "topics": [
               "android",
               "framework",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1894,
+            "stars": 1895,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1503,
+            "stars": 1504,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:05:20Z",
+            "last_commit": "2026-09-16T01:08:26Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1018,7 +1018,7 @@
             "open_issues": 37,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1173,
+            "stars": 1174,
             "topics": [
               "analysis",
               "android",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:13:49.290Z",
+    "last_updated": "2026-09-16T19:05:53.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3530,
+      "stars": 3531,
       "topics": [
         "android",
         "awesome",
