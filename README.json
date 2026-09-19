@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1659,
+            "stars": 1660,
             "topics": [
               "android",
               "frida",
@@ -401,11 +401,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T20:42:06Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-19T01:12:54Z",
+            "open_issues": 46,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -711,7 +711,7 @@
             "open_issues": 1,
             "owner": "radareorg",
             "repo": "r2con",
-            "stars": 213,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9396,
+            "stars": 9401,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 9,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3087,
+            "stars": 3090,
             "topics": [
               "android-security",
               "frida",
@@ -858,7 +858,7 @@
             "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1667,
+            "stars": 1668,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "android",
               "appmon",
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1465,
+            "stars": 1466,
             "topics": [
               "android",
               "frida",
@@ -953,11 +953,11 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T20:42:06Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-19T01:12:54Z",
+            "open_issues": 46,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -1014,11 +1014,11 @@
             "id": 171117490,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T07:19:34Z",
+            "last_commit": "2026-09-18T19:45:20Z",
             "open_issues": 37,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1174,
+            "stars": 1173,
             "topics": [
               "analysis",
               "android",
@@ -1118,11 +1118,11 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T13:47:18Z",
+            "last_commit": "2026-09-19T09:30:43Z",
             "open_issues": 8,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 540,
+            "stars": 543,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:38:46.582Z",
+    "last_updated": "2026-09-19T18:12:49.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
