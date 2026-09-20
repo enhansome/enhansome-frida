@@ -402,7 +402,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T01:12:54Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1440,
@@ -780,7 +780,7 @@
             "open_issues": 57,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9401,
+            "stars": 9402,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 9,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3090,
+            "stars": 3091,
             "topics": [
               "android-security",
               "frida",
@@ -858,7 +858,7 @@
             "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1668,
+            "stars": 1667,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -954,7 +954,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-19T01:12:54Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1440,
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:12:49.750Z",
+    "last_updated": "2026-09-20T18:18:43.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3530,
+      "stars": 3531,
       "topics": [
         "android",
         "awesome",
