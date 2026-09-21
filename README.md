@@ -48,8 +48,8 @@ More info [here](http://www.frida.re/).
 
 ## Projects
 
-* [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,535 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - another useful frida snippets repository
-* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,660 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-02 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
+* [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,536 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - another useful frida snippets repository
+* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,662 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-02 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,440 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-19 - static and dynamic analysis synergy
 * [frida-cycript](https://github.com/nowsecure/frida-cycript) ⭐ 396 | 🐛 13 | 🌐 C | 📅 2023-03-04 - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-07 powered by Frida.
 * [Arida](https://github.com/lateautumn4lin/arida) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2020-11-02 - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
@@ -58,7 +58,7 @@ More info [here](http://www.frida.re/).
 * [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) ⭐ 171 | 🐛 1 | 🌐 C | 📅 2020-05-26 - use Frida for standalone injection of a custom payload for iOS.
 * [poxyran/misc](https://github.com/poxyran/misc) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27 - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27,
 * [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2015-04-05 - IDA Pro plugin
-* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 104 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
+* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
 * [RoboDroid](https://github.com/cybersecsi/robodroid) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2024-01-15 - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
 * [easy-frida](https://github.com/tacesrever/easy-frida) ⭐ 85 | 🐛 0 | 🌐 C++ | 📅 2025-07-11 - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 * [rekit](https://github.com/b-erdem/rekit) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-01 - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
@@ -90,12 +90,12 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,402 | 🐛 57 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
+* [objection](https://github.com/sensepost/objection) ⭐ 9,403 | 🐛 57 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,091 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
-* [brida](https://github.com/federicodotta/Brida) ⭐ 1,895 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
+* [brida](https://github.com/federicodotta/Brida) ⭐ 1,896 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,503 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,502 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [House](https://github.com/nccgroup/house) ⭐ 1,466 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,440 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-19 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 * [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,319 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
@@ -165,14 +165,14 @@ Also, if you notice that a listing should be deprecated or replaced:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,531 | 🐛 5 | 📅 2026-04-10
+More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,532 | 🐛 5 | 📅 2026-04-10
 
 <a name="credits" />
 
 ## Credits
 
-* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,551 | 🐛 34 | 📅 2026-02-08
+* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
