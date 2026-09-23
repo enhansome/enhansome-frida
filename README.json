@@ -405,7 +405,7 @@
             "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1896,
+            "stars": 1897,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1502,
+            "stars": 1503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -957,7 +957,7 @@
             "open_issues": 47,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -1018,7 +1018,7 @@
             "open_issues": 37,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1173,
+            "stars": 1175,
             "topics": [
               "analysis",
               "android",
@@ -1122,7 +1122,7 @@
             "open_issues": 8,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:13:00.665Z",
+    "last_updated": "2026-09-23T19:14:18.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
