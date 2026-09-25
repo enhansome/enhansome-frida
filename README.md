@@ -29,7 +29,7 @@ More info [here](http://www.frida.re/).
 ## Libraries
 
 * [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) ⭐ 397 | 🐛 1 | 🌐 Python | 📅 2019-07-30 - Hook method calls in Android
-* [frida-trace](https://github.com/nowsecure/frida-trace) ⭐ 238 | 🐛 20 | 🌐 JavaScript | 📅 2025-06-16 - Trace APIs declaratively
+* [frida-trace](https://github.com/nowsecure/frida-trace) ⭐ 237 | 🐛 20 | 🌐 JavaScript | 📅 2025-06-16 - Trace APIs declaratively
 * [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 35 | 🌐 JavaScript | 📅 2026-03-27 - Compile a Frida script comprised of one or more Node.js modules
 * [FridaAndroidTracer](https://github.com/Piasy/FridaAndroidTracer) ⭐ 137 | 🐛 0 | 🌐 Java | 📅 2018-04-14 - A runnable jar that generate Javascript hook script to hook Android classes
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) ⭐ 61 | 🐛 4 | 🌐 JavaScript | 📅 2025-06-16 - Inspect and manipulate UIKit-based GUIs
@@ -49,8 +49,8 @@ More info [here](http://www.frida.re/).
 ## Projects
 
 * [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,537 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - another useful frida snippets repository
-* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,662 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-02 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,441 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-21 - static and dynamic analysis synergy
+* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,664 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-02 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,443 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-25 - static and dynamic analysis synergy
 * [frida-cycript](https://github.com/nowsecure/frida-cycript) ⭐ 396 | 🐛 13 | 🌐 C | 📅 2023-03-04 - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-07 powered by Frida.
 * [Arida](https://github.com/lateautumn4lin/arida) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2020-11-02 - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 * [as0ler/frida-scripts](https://github.com/as0ler/frida-scripts) ⭐ 245 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-21 - Repository including some useful frida script for iOS Reversing
@@ -58,7 +58,7 @@ More info [here](http://www.frida.re/).
 * [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) ⭐ 171 | 🐛 1 | 🌐 C | 📅 2020-05-26 - use Frida for standalone injection of a custom payload for iOS.
 * [poxyran/misc](https://github.com/poxyran/misc) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27 - Misc Frida scripts [read-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-read-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [write-process-memory.py](https://github.com/poxyran/misc/blob/master/frida-write-process-memory.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27, [frida-heap-trace](https://github.com/poxyran/misc/blob/master/frida-heap-trace.py) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2019-06-27,
 * [IDA Pro plugin](https://github.com/techbliss/Frida_For_Ida_Pro) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2015-04-05 - IDA Pro plugin
-* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 105 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
+* [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 106 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
 * [RoboDroid](https://github.com/cybersecsi/robodroid) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2024-01-15 - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
 * [easy-frida](https://github.com/tacesrever/easy-frida) ⭐ 85 | 🐛 0 | 🌐 C++ | 📅 2025-07-11 - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
 * [rekit](https://github.com/b-erdem/rekit) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-01 - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
@@ -90,20 +90,20 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,404 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,090 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [objection](https://github.com/sensepost/objection) ⭐ 9,406 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,092 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,897 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,503 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,502 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-24 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [House](https://github.com/nccgroup/house) ⭐ 1,467 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,441 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-21 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,443 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-25 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
 * [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,319 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) ⭐ 1,175 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-18 - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
 * [google/ssl\_logger](https://github.com/google/ssl_logger) ⚠️ Archived - Decrypts and logs a process's SSL traffic.
 * [Fridump](https://github.com/Nightbringer21/fridump) ⭐ 861 | 🐛 27 | 🌐 Python | 📅 2024-08-07 - A universal memory dumper using Frida
 * [CryptoShark](https://github.com/frida/cryptoshark) ⭐ 601 | 🐛 13 | 🌐 C++ | 📅 2022-07-20 - Self-optimizing cross-platform code tracer based on dynamic recompilation
-* [friTap](https://github.com/fkie-cad/friTap) ⭐ 545 | 🐛 8 | 🌐 Python | 📅 2026-09-19 - Decrypts and logs a process's SSL/TLS traffic on all major platforms. Beside this it intercepts the generation of encryption keys used by SSL/TLS and logs them as a SSLKEYLOGFILE.
+* [friTap](https://github.com/fkie-cad/friTap) ⭐ 546 | 🐛 8 | 🌐 Python | 📅 2026-09-19 - Decrypts and logs a process's SSL/TLS traffic on all major platforms. Beside this it intercepts the generation of encryption keys used by SSL/TLS and logs them as a SSLKEYLOGFILE.
 * [google/tcp\_killer](https://github.com/google/tcp_killer) ⚠️ Archived - Shuts down a TCP connection based using output from a `netstat` cmd.
 * [r2frida-wiki](https://github.com/enovella/r2frida-wiki) ⭐ 203 | 🐛 2 | 📅 2020-12-11 - Unofficial wiki that provides practical examples on how to use r2frida
 * [diff-gui](https://github.com/antojoseph/diff-gui) ⭐ 183 | 🐛 2 | 🌐 JavaScript | 📅 2016-11-03 - Web GUI for instrumenting Android
@@ -165,7 +165,7 @@ Also, if you notice that a listing should be deprecated or replaced:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,535 | 🐛 5 | 📅 2026-04-10
+More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/master/CONTRIBUTING.md) ⭐ 3,536 | 🐛 5 | 📅 2026-04-10
 
 <a name="credits" />
 
@@ -175,4 +175,4 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
