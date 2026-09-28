@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2537,
+            "stars": 2538,
             "topics": [
               "aarch64",
               "android",
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1664,
+            "stars": 1666,
             "topics": [
               "android",
               "frida",
@@ -401,8 +401,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T19:09:33Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-28T07:49:43Z",
+            "open_issues": 37,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1443,
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9410,
+            "stars": 9414,
             "topics": [
               "android",
               "framework",
@@ -953,8 +953,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T19:09:33Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-28T07:49:43Z",
+            "open_issues": 37,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1443,
@@ -1101,7 +1101,7 @@
             "open_issues": 13,
             "owner": "frida",
             "repo": "cryptoshark",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:17:30.528Z",
+    "last_updated": "2026-09-28T21:23:07.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
