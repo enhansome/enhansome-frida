@@ -207,7 +207,7 @@
             "open_issues": 12,
             "owner": "TamerPlatform",
             "repo": "frida-push",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1667,
+            "stars": 1666,
             "topics": [
               "android",
               "frida",
@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:07:26Z",
+            "last_commit": "2026-10-01T15:18:21Z",
             "open_issues": 38,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -806,8 +806,8 @@
             "id": 250552704,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T10:41:44Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-01T16:29:12Z",
+            "open_issues": 10,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
             "stars": 3097,
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1898,
+            "stars": 1899,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1467,
+            "stars": 1468,
             "topics": [
               "android",
               "frida",
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:07:26Z",
+            "last_commit": "2026-10-01T15:18:21Z",
             "open_issues": 38,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1015,7 +1015,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-18T19:45:20Z",
-            "open_issues": 37,
+            "open_issues": 90,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
             "stars": 1175,
@@ -1122,7 +1122,7 @@
             "open_issues": 8,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:18:59.643Z",
+    "last_updated": "2026-10-01T20:31:51.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
