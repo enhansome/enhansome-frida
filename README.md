@@ -30,7 +30,7 @@ More info [here](http://www.frida.re/).
 
 * [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) ⭐ 397 | 🐛 1 | 🌐 Python | 📅 2019-07-30 - Hook method calls in Android
 * [frida-trace](https://github.com/nowsecure/frida-trace) ⭐ 237 | 🐛 20 | 🌐 JavaScript | 📅 2025-06-16 - Trace APIs declaratively
-* [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-27 - Compile a Frida script comprised of one or more Node.js modules
+* [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 - Compile a Frida script comprised of one or more Node.js modules
 * [FridaAndroidTracer](https://github.com/Piasy/FridaAndroidTracer) ⭐ 137 | 🐛 0 | 🌐 Java | 📅 2018-04-14 - A runnable jar that generate Javascript hook script to hook Android classes
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) ⭐ 61 | 🐛 4 | 🌐 JavaScript | 📅 2025-06-16 - Inspect and manipulate UIKit-based GUIs
 * [frida-screenshot](https://github.com/nowsecure/frida-screenshot) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-18 - Grab (iOS) screenshots
@@ -41,7 +41,7 @@ More info [here](http://www.frida.re/).
 * [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-16 - Create an outbound stream over a message transport.
 * [frida-panic](https://github.com/nowsecure/frida-panic) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2019-08-19 - Easy crash-reporting for Frida-based applications
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-22 - Create a stream from one or more memory regions.
-* [frida-load](https://github.com/frida/frida-load) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-09 - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-27)
+* [frida-load](https://github.com/frida/frida-load) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2017-08-09 - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03)
 * [frida-definitions-generator](https://git.sr.ht/~yotam/frida-definitions-generator) - Generate TypeScript definitions for a given APK file or unpacked apk directory.
 
 <a name="projects" />
@@ -90,8 +90,8 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,419 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,103 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [objection](https://github.com/sensepost/objection) ⭐ 9,421 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,107 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,899 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
