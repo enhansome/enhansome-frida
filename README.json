@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "antojoseph",
             "repo": "frida-android-hooks",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2538,
+            "stars": 2539,
             "topics": [
               "aarch64",
               "android",
@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T12:35:57Z",
+            "last_commit": "2026-10-10T01:22:53Z",
             "open_issues": 42,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -711,7 +711,7 @@
             "open_issues": 1,
             "owner": "radareorg",
             "repo": "r2con",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1507,
+            "stars": 1508,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T12:35:57Z",
+            "last_commit": "2026-10-10T01:22:53Z",
             "open_issues": 42,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 863,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 8,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 554,
+            "stars": 555,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:20:12.712Z",
+    "last_updated": "2026-10-10T19:32:29.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3546,
+      "stars": 3547,
       "topics": [
         "android",
         "awesome",
