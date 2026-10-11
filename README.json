@@ -180,8 +180,8 @@
             "id": 60615275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T11:56:51Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-11T09:13:35Z",
+            "open_issues": 5,
             "owner": "nowsecure",
             "repo": "frida-fs",
             "stars": 51,
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "android",
               "frida",
@@ -401,8 +401,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:22:53Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-11T00:58:27Z",
+            "open_issues": 43,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1448,
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9433,
+            "stars": 9436,
             "topics": [
               "android",
               "framework",
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1508,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,8 +953,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:22:53Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-11T00:58:27Z",
+            "open_issues": 43,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1448,
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:32:29.583Z",
+    "last_updated": "2026-10-11T19:43:40.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
