@@ -65,7 +65,7 @@
             "open_issues": 31,
             "owner": "frida",
             "repo": "frida-compile",
-            "stars": 229,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2539,
+            "stars": 2538,
             "topics": [
               "aarch64",
               "android",
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "android",
               "frida",
@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:49:44Z",
+            "last_commit": "2026-10-17T10:08:32Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9448,
+            "stars": 9447,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3114,
+            "stars": 3121,
             "topics": [
               "android-security",
               "frida",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1900,
+            "stars": 1901,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -910,7 +910,7 @@
             "open_issues": 3,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1509,
+            "stars": 1508,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:49:44Z",
+            "last_commit": "2026-10-17T10:08:32Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:01:50.585Z",
+    "last_updated": "2026-10-17T17:56:15.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
