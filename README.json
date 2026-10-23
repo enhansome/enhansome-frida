@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "antojoseph",
             "repo": "frida-android-hooks",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -65,7 +65,7 @@
             "open_issues": 31,
             "owner": "frida",
             "repo": "frida-compile",
-            "stars": 230,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2538,
+            "stars": 2539,
             "topics": [
               "aarch64",
               "android",
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1676,
+            "stars": 1678,
             "topics": [
               "android",
               "frida",
@@ -669,7 +669,7 @@
             "open_issues": 0,
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "android",
               "api",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3129,
+            "stars": 3132,
             "topics": [
               "android-security",
               "frida",
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "android",
               "appmon",
@@ -910,7 +910,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1511,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1181,
+            "stars": 1182,
             "topics": [
               "analysis",
               "android",
@@ -1059,7 +1059,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "ssl_logger",
-            "stars": 1118,
+            "stars": 1117,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1118,11 +1118,11 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T15:28:32Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-23T16:05:36Z",
+            "open_issues": 7,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:31:15.643Z",
+    "last_updated": "2026-10-23T19:33:04.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
