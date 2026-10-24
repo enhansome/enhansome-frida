@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1678,
+            "stars": 1679,
             "topics": [
               "android",
               "frida",
@@ -669,7 +669,7 @@
             "open_issues": 0,
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "android",
               "api",
@@ -780,7 +780,7 @@
             "open_issues": 59,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9455,
+            "stars": 9458,
             "topics": [
               "android",
               "framework",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:33:04.506Z",
+    "last_updated": "2026-10-24T18:21:48.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",

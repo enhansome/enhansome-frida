@@ -49,7 +49,7 @@ More info [here](http://www.frida.re/).
 ## Projects
 
 * [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,539 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - another useful frida snippets repository
-* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,678 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-20 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
+* [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,679 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-20 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
 * [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,450 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-22 - static and dynamic analysis synergy
 * [frida-cycript](https://github.com/nowsecure/frida-cycript) ⭐ 396 | 🐛 13 | 🌐 C | 📅 2023-03-04 - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-07 powered by Frida.
 * [Arida](https://github.com/lateautumn4lin/arida) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2020-11-02 - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
@@ -61,7 +61,7 @@ More info [here](http://www.frida.re/).
 * [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) ⭐ 107 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-29 - Repository including scripts for COM, .NET and WinRT for Windows
 * [RoboDroid](https://github.com/cybersecsi/robodroid) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2024-01-15 - A tool for manage and deploy Android machines with pre-defined behaviors (made with Frida) for Cyber Range environments.
 * [easy-frida](https://github.com/tacesrever/easy-frida) ⭐ 85 | 🐛 0 | 🌐 C++ | 📅 2025-07-11 - A tool for easily develop frida agent script/module when reversing, including some useful frida scripts.
-* [rekit](https://github.com/b-erdem/rekit) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-01 - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
+* [rekit](https://github.com/b-erdem/rekit) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-05-01 - Reverse engineering toolkit for mobile APIs. Captures Android HTTP traffic via Frida hooks (OkHttp, Dio, URLConnection, WebView) above TLS without proxy setup, outputs HAR files, and includes tools for endpoint scanning, TLS fingerprint testing, and API client generation.
 * [roxanagogonea/frida-scripts](https://gitlab.com/roxanagogonea/frida-scripts) - Repository including some useful frida scripts for Android
 
 <a name="talks-and-papers" />
@@ -90,7 +90,7 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,455 | 🐛 59 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
+* [objection](https://github.com/sensepost/objection) ⭐ 9,458 | 🐛 59 | 🌐 Python | 📅 2026-09-17 - Runtime Mobile Exploration for iOS and Android
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,132 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,901 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
@@ -175,4 +175,4 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
