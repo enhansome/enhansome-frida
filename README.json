@@ -145,6 +145,29 @@
         },
         {
           "node_type": "item",
+          "title": "frida-fs",
+          "description": "Create a stream from a filesystem resource.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create a stream from a filesystem resource.",
+            "homepage": null,
+            "id": 60615275,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-11T09:13:35Z",
+            "open_issues": 4,
+            "owner": "nowsecure",
+            "repo": "frida-fs",
+            "stars": 52,
+            "topics": [
+              "frida"
+            ]
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
+        },
+        {
+          "node_type": "item",
           "title": "frida-uiwebview",
           "description": "Inspect and manipulate UIWebView-hosted GUIs",
           "children": [],
@@ -164,29 +187,6 @@
               "frida",
               "nowsecure",
               "webview"
-            ]
-          },
-          "first_seen": "2026-08-29T00:07:49.332Z"
-        },
-        {
-          "node_type": "item",
-          "title": "frida-fs",
-          "description": "Create a stream from a filesystem resource.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create a stream from a filesystem resource.",
-            "homepage": null,
-            "id": 60615275,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-11T09:13:35Z",
-            "open_issues": 4,
-            "owner": "nowsecure",
-            "repo": "frida-fs",
-            "stars": 51,
-            "topics": [
-              "frida"
             ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1681,
+            "stars": 1682,
             "topics": [
               "android",
               "frida",
@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T23:32:50Z",
+            "last_commit": "2026-10-28T19:01:24Z",
             "open_issues": 48,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -780,7 +780,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9466,
+            "stars": 9470,
             "topics": [
               "android",
               "framework",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1900,
+            "stars": 1901,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T23:32:50Z",
+            "last_commit": "2026-10-28T19:01:24Z",
             "open_issues": 48,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1122,7 +1122,7 @@
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "android",
               "android-https-capture",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:14:50.988Z",
+    "last_updated": "2026-10-28T20:34:35.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3553,
+      "stars": 3554,
       "topics": [
         "android",
         "awesome",
