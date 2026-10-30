@@ -65,7 +65,7 @@
             "open_issues": 31,
             "owner": "frida",
             "repo": "frida-compile",
-            "stars": 229,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1682,
+            "stars": 1683,
             "topics": [
               "android",
               "frida",
@@ -401,8 +401,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T19:01:24Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-30T15:27:04Z",
+            "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1450,
@@ -780,7 +780,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9472,
+            "stars": 9474,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3134,
+            "stars": 3135,
             "topics": [
               "android-security",
               "frida",
@@ -910,7 +910,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1512,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -953,8 +953,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T19:01:24Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-30T15:27:04Z",
+            "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1450,
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1320,
+            "stars": 1321,
             "topics": [
               "android",
               "capstone-engine",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:37:52.413Z",
+    "last_updated": "2026-10-30T20:08:48.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1349,7 +1349,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3553,
+      "stars": 3555,
       "topics": [
         "android",
         "awesome",
