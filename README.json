@@ -61,9 +61,9 @@
             "id": 57397831,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T07:16:32Z",
+            "last_commit": "2026-10-30T21:32:19Z",
             "open_issues": 31,
-            "owner": "frida",
+            "owner": "frida-packages",
             "repo": "frida-compile",
             "stars": 230,
             "topics": []
@@ -304,7 +304,7 @@
           "description": "Load a Frida script comprised of one or more Node.js modules (Deprecated, use frida-compile)",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Load a Frida script comprised of one or more Node.js modules",
             "homepage": null,
             "id": 45713722,
@@ -312,7 +312,7 @@
             "license": null,
             "last_commit": "2017-08-09T11:16:43Z",
             "open_issues": 0,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "frida-load",
             "stars": 9,
             "topics": []
@@ -730,7 +730,7 @@
             "license": "NOASSERTION",
             "last_commit": "2019-08-18T00:37:05Z",
             "open_issues": 0,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "frida-presentations",
             "stars": 103,
             "topics": []
@@ -751,7 +751,7 @@
             "license": "NOASSERTION",
             "last_commit": "2019-08-18T00:37:05Z",
             "open_issues": 0,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "frida-presentations",
             "stars": 103,
             "topics": []
@@ -780,7 +780,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9474,
+            "stars": 9477,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3135,
+            "stars": 3138,
             "topics": [
               "android-security",
               "frida",
@@ -910,7 +910,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1513,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1468,
+            "stars": 1469,
             "topics": [
               "android",
               "frida",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1091,7 +1091,7 @@
           "description": "Self-optimizing cross-platform code tracer based on dynamic recompilation",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Self-optimizing cross-platform code tracer based on dynamic recompilation",
             "homepage": null,
             "id": 20461980,
@@ -1099,7 +1099,7 @@
             "license": "NOASSERTION",
             "last_commit": "2022-07-20T01:47:26Z",
             "open_issues": 13,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "cryptoshark",
             "stars": 602,
             "topics": []
@@ -1296,7 +1296,7 @@
           "description": "Web app built on top of Frida",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Proof-of-concept web app built on top of Frida",
             "homepage": null,
             "id": 9835450,
@@ -1304,7 +1304,7 @@
             "license": "NOASSERTION",
             "last_commit": "2015-05-10T01:39:05Z",
             "open_issues": 1,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "aurora",
             "stars": 29,
             "topics": []
@@ -1317,7 +1317,7 @@
           "description": "Web app built on top of Frida",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Proof-of-concept web app built on top of Frida",
             "homepage": null,
             "id": 9835040,
@@ -1325,7 +1325,7 @@
             "license": "NOASSERTION",
             "last_commit": "2015-04-11T22:53:43Z",
             "open_issues": 0,
-            "owner": "frida",
+            "owner": "frida-labs",
             "repo": "cloudspy",
             "stars": 22,
             "topics": []
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:08:48.907Z",
+    "last_updated": "2026-10-31T19:32:53.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
