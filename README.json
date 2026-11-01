@@ -401,7 +401,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:27:04Z",
+            "last_commit": "2026-11-01T13:46:26Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -780,7 +780,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9477,
+            "stars": 9479,
             "topics": [
               "android",
               "framework",
@@ -953,7 +953,7 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:27:04Z",
+            "last_commit": "2026-11-01T13:46:26Z",
             "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
@@ -1122,7 +1122,7 @@
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "android",
               "android-https-capture",
@@ -1131,6 +1131,7 @@
               "hooking",
               "https",
               "linux",
+              "mtproto",
               "network-analysis",
               "network-capture",
               "network-forensics",
@@ -1337,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:32:53.188Z",
+    "last_updated": "2026-11-01T19:53:54.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
