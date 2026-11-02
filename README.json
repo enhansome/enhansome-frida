@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2540,
+            "stars": 2539,
             "topics": [
               "aarch64",
               "android",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3138,
+            "stars": 3137,
             "topics": [
               "android-security",
               "frida",
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1634,
+            "stars": 1633,
             "topics": [
               "android",
               "appmon",
@@ -910,7 +910,7 @@
             "open_issues": 5,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1512,
+            "stars": 1511,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 862,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:53:54.865Z",
+    "last_updated": "2026-11-02T23:13:23.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
