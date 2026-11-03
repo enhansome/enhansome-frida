@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2539,
+            "stars": 2540,
             "topics": [
               "aarch64",
               "android",
@@ -780,7 +780,7 @@
             "open_issues": 54,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9479,
+            "stars": 9481,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3137,
+            "stars": 3139,
             "topics": [
               "android-security",
               "frida",
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "android",
               "frida",
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1183,
+            "stars": 1185,
             "topics": [
               "analysis",
               "android",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1118,7 +1118,7 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T14:36:57Z",
+            "last_commit": "2026-11-03T17:31:17Z",
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
@@ -1209,7 +1209,7 @@
             "open_issues": 2,
             "owner": "antojoseph",
             "repo": "diff-gui",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "diff-gui",
               "frida",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:13:23.969Z",
+    "last_updated": "2026-11-03T21:16:24.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
