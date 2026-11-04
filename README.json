@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2540,
+            "stars": 2539,
             "topics": [
               "aarch64",
               "android",
@@ -433,7 +433,7 @@
             "open_issues": 13,
             "owner": "nowsecure",
             "repo": "frida-cycript",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "cylang",
               "dsl",
@@ -669,7 +669,7 @@
             "open_issues": 0,
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "android",
               "api",
@@ -777,10 +777,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T11:34:43Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9481,
+            "stars": 9484,
             "topics": [
               "android",
               "framework",
@@ -837,7 +837,7 @@
             "open_issues": 11,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1901,
+            "stars": 1900,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1185,
+            "stars": 1186,
             "topics": [
               "analysis",
               "android",
@@ -1118,7 +1118,7 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T17:31:17Z",
+            "last_commit": "2026-11-04T20:52:48Z",
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:16:24.425Z",
+    "last_updated": "2026-11-04T21:31:03.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
