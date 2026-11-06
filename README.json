@@ -107,7 +107,7 @@
             "id": 51963196,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-06-16T09:21:30Z",
+            "last_commit": "2026-11-06T11:40:31Z",
             "open_issues": 4,
             "owner": "nowsecure",
             "repo": "frida-uikit",
@@ -129,7 +129,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-18T00:14:46Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "nowsecure",
             "repo": "frida-screenshot",
             "stars": 52,
@@ -401,8 +401,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T12:48:02Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-06T00:29:41Z",
+            "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1451,
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3141,
+            "stars": 3142,
             "topics": [
               "android-security",
               "frida",
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1470,
+            "stars": 1468,
             "topics": [
               "android",
               "frida",
@@ -953,8 +953,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T12:48:02Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-06T00:29:41Z",
+            "open_issues": 45,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1451,
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1186,
+            "stars": 1187,
             "topics": [
               "analysis",
               "android",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 862,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1118,7 +1118,7 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T21:34:24Z",
+            "last_commit": "2026-11-06T11:30:50Z",
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:34:44.628Z",
+    "last_updated": "2026-11-06T21:05:05.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
