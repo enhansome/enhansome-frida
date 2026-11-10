@@ -780,7 +780,7 @@
             "open_issues": 56,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9496,
+            "stars": 9498,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3142,
+            "stars": 3143,
             "topics": [
               "android-security",
               "frida",
@@ -834,7 +834,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2025-10-30T13:47:46Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "federicodotta",
             "repo": "Brida",
             "stars": 1901,
@@ -858,7 +858,7 @@
             "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1669,
+            "stars": 1670,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:51:19.594Z",
+    "last_updated": "2026-11-10T21:26:13.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1350,7 +1350,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3557,
+      "stars": 3558,
       "topics": [
         "android",
         "awesome",
