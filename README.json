@@ -40,7 +40,7 @@
             "open_issues": 20,
             "owner": "nowsecure",
             "repo": "frida-trace",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "frida",
               "nowsecure",
@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "Piasy",
             "repo": "FridaAndroidTracer",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "android",
               "frida",
@@ -377,7 +377,7 @@
             "open_issues": 2,
             "owner": "0xdea",
             "repo": "frida-scripts",
-            "stars": 1684,
+            "stars": 1686,
             "topics": [
               "android",
               "frida",
@@ -405,7 +405,7 @@
             "open_issues": 46,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -433,7 +433,7 @@
             "open_issues": 13,
             "owner": "nowsecure",
             "repo": "frida-cycript",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "cylang",
               "dsl",
@@ -620,7 +620,7 @@
             "open_issues": 4,
             "owner": "cybersecsi",
             "repo": "robodroid",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "android",
               "cyber-range",
@@ -780,7 +780,7 @@
             "open_issues": 56,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9506,
+            "stars": 9509,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3146,
+            "stars": 3148,
             "topics": [
               "android-security",
               "frida",
@@ -837,7 +837,7 @@
             "open_issues": 12,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1901,
+            "stars": 1902,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "android",
               "appmon",
@@ -910,7 +910,7 @@
             "open_issues": 6,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1511,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -931,7 +931,7 @@
             "open_issues": 16,
             "owner": "nccgroup",
             "repo": "house",
-            "stars": 1468,
+            "stars": 1469,
             "topics": [
               "android",
               "frida",
@@ -957,7 +957,7 @@
             "open_issues": 46,
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "android-security",
               "dynamic-analysis",
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1320,
+            "stars": 1322,
             "topics": [
               "android",
               "capstone-engine",
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1188,
+            "stars": 1191,
             "topics": [
               "analysis",
               "android",
@@ -1118,11 +1118,11 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T10:23:14Z",
+            "last_commit": "2026-11-13T18:09:25Z",
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 567,
+            "stars": 569,
             "topics": [
               "android",
               "android-https-capture",
@@ -1182,7 +1182,7 @@
             "open_issues": 2,
             "owner": "enovella",
             "repo": "r2frida-wiki",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "dynamic-analysis",
               "frida",
@@ -1209,7 +1209,7 @@
             "open_issues": 2,
             "owner": "antojoseph",
             "repo": "diff-gui",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "diff-gui",
               "frida",
@@ -1277,7 +1277,7 @@
             "open_issues": 3,
             "owner": "0xdad0",
             "repo": "PAPIMonitor",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "android",
               "api",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:55:18.338Z",
+    "last_updated": "2026-11-13T21:39:23.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1350,7 +1350,7 @@
       "open_issues": 5,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3559,
+      "stars": 3560,
       "topics": [
         "android",
         "awesome",
