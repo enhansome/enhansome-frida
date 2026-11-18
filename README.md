@@ -29,8 +29,8 @@ More info [here](http://www.frida.re/).
 ## Libraries
 
 * [frida-android-hooks](https://github.com/antojoseph/frida-android-hooks) ⭐ 398 | 🐛 1 | 🌐 Python | 📅 2019-07-30 - Hook method calls in Android
-* [frida-trace](https://github.com/nowsecure/frida-trace) ⭐ 238 | 🐛 20 | 🌐 JavaScript | 📅 2025-06-16 - Trace APIs declaratively
-* [frida-compile](https://github.com/frida/frida-compile) ⭐ 229 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-30 - Compile a Frida script comprised of one or more Node.js modules
+* [frida-trace](https://github.com/nowsecure/frida-trace) ⭐ 239 | 🐛 20 | 🌐 JavaScript | 📅 2025-06-16 - Trace APIs declaratively
+* [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-30 - Compile a Frida script comprised of one or more Node.js modules
 * [FridaAndroidTracer](https://github.com/Piasy/FridaAndroidTracer) ⭐ 138 | 🐛 0 | 🌐 Java | 📅 2018-04-14 - A runnable jar that generate Javascript hook script to hook Android classes
 * [frida-uikit](https://github.com/nowsecure/frida-uikit) ⭐ 61 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-06 - Inspect and manipulate UIKit-based GUIs
 * [frida-screenshot](https://github.com/nowsecure/frida-screenshot) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Grab (iOS) screenshots
@@ -41,7 +41,7 @@ More info [here](http://www.frida.re/).
 * [frida-remote-stream](https://github.com/nowsecure/frida-remote-stream) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2025-06-16 - Create an outbound stream over a message transport.
 * [frida-panic](https://github.com/nowsecure/frida-panic) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2019-08-19 - Easy crash-reporting for Frida-based applications
 * [frida-memory-stream](https://github.com/nowsecure/frida-memory-stream) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-22 - Create a stream from one or more memory regions.
-* [frida-load](https://github.com/frida/frida-load) ⚠️ Archived - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile) ⭐ 229 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-30)
+* [frida-load](https://github.com/frida/frida-load) ⚠️ Archived - Load a Frida script comprised of one or more Node.js modules (Deprecated, use [frida-compile](https://github.com/frida/frida-compile) ⭐ 230 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-30)
 * [frida-definitions-generator](https://git.sr.ht/~yotam/frida-definitions-generator) - Generate TypeScript definitions for a given APK file or unpacked apk directory.
 
 <a name="projects" />
@@ -50,8 +50,8 @@ More info [here](http://www.frida.re/).
 
 * [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,539 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - another useful frida snippets repository
 * [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) ⭐ 1,689 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-16 - instrumentation scripts to facilitate reverse engineering of android and iOS Apps.
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,455 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17 - static and dynamic analysis synergy
-* [frida-cycript](https://github.com/nowsecure/frida-cycript) ⭐ 398 | 🐛 13 | 🌐 C | 📅 2023-03-04 - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-07 powered by Frida.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,456 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17 - static and dynamic analysis synergy
+* [frida-cycript](https://github.com/nowsecure/frida-cycript) ⭐ 399 | 🐛 13 | 🌐 C | 📅 2023-03-04 - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-07 powered by Frida.
 * [Arida](https://github.com/lateautumn4lin/arida) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2020-11-02 - A Frida-RPC tool based on FastAPI, Help users quickly realize interface exposure.
 * [as0ler/frida-scripts](https://github.com/as0ler/frida-scripts) ⭐ 244 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-21 - Repository including some useful frida script for iOS Reversing
 * [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) ⭐ 213 | 🐛 3 | 🌐 JavaScript | 📅 2021-09-24 - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
@@ -90,15 +90,15 @@ More info [here](http://www.frida.re/).
 
 ## Powered by Frida
 
-* [objection](https://github.com/sensepost/objection) ⭐ 9,517 | 🐛 56 | 🌐 Python | 📅 2026-10-27 - Runtime Mobile Exploration for iOS and Android
+* [objection](https://github.com/sensepost/objection) ⭐ 9,521 | 🐛 57 | 🌐 Python | 📅 2026-10-27 - Runtime Mobile Exploration for iOS and Android
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,152 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12 - A powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [brida](https://github.com/federicodotta/Brida) ⭐ 1,903 | 🐛 12 | 🌐 Java | 📅 2025-10-30 - Bridge between Burp Suite and Frida
 * [passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - iOS App Analyzer with Web UI
 * [Appmon](https://github.com/dpnishant/appmon) ⚠️ Archived - Runtime Security Testing Framework for iOS, Mac OS X and Android Apps
-* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,511 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
+* [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,512 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Decrypt apps from AppStore on jailbroken devices. Supports decrypting app extensions.
 * [House](https://github.com/nccgroup/house) ⭐ 1,471 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03 - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,455 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
-* [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,324 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,456 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-17 [memory search](https://www.nowsecure.com/blog/2017/03/14/spearing-data-mobile-memory-building-better-r2frida-memory-search/)
+* [Dwarf](https://github.com/igio90/Dwarf) ⭐ 1,325 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - A debugger built on top of PyQt5 and frida
 * [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) ⭐ 1,191 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-02 - A dynamic binary instrumentation tool designed for Android apps and powered by Frida
 * [google/ssl\_logger](https://github.com/google/ssl_logger) ⚠️ Archived - Decrypts and logs a process's SSL traffic.
 * [Fridump](https://github.com/Nightbringer21/fridump) ⭐ 861 | 🐛 27 | 🌐 Python | 📅 2024-08-07 - A universal memory dumper using Frida
@@ -141,6 +141,7 @@ More info [here](http://www.frida.re/).
 * [Maddie Stone, Google project Zero - Blackhat 2020 - Reversing the Root. Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://i.blackhat.com/USA-20/Wednesday/us-20-Stone-Reversing-The-Root-Identifying-The-Exploited-Vulnerability-In-0-Days-Used-In-The-Wild.pdf)
 * [Natalie Silvanovich, Google Project Zero - January 2022 - Zooming in on Zero-click Exploits](https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html)
 * [BlackBerry - April 2021 - Malware analysis with dynamic binary instrumentation frameworks](https://blogs.blackberry.com/en/2021/04/malware-analysis-with-dynamic-binary-instrumentation-frameworks)
+* [Frida and Burp on a Rooted Android Emulator on Apple Silicon](https://jidr.ly/blog/frida-burp-android-emulator-apple-silicon/) - frida-server on an arm64 emulator, Burp's CA in the Android 14+ system store, and an OkHttp/network-security-config pinning bypass.
 
 <a name="community" />
 
@@ -171,8 +172,8 @@ More info on the [guidelines](https://github.com/dweinstein/awesome-frida/blob/m
 
 ## Credits
 
-* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,535 | 🐛 34 | 📅 2026-02-08
+* This awesome list was originally based on [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,536 | 🐛 34 | 📅 2026-02-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
