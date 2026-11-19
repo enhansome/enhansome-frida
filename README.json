@@ -341,7 +341,7 @@
             "open_issues": 5,
             "owner": "iddoeldor",
             "repo": "frida-snippets",
-            "stars": 2539,
+            "stars": 2537,
             "topics": [
               "aarch64",
               "android",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3152,
+            "stars": 3150,
             "topics": [
               "android-security",
               "frida",
@@ -837,7 +837,7 @@
             "open_issues": 12,
             "owner": "federicodotta",
             "repo": "Brida",
-            "stars": 1903,
+            "stars": 1902,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -879,7 +879,7 @@
             "open_issues": 38,
             "owner": "dpnishant",
             "repo": "appmon",
-            "stars": 1635,
+            "stars": 1633,
             "topics": [
               "android",
               "appmon",
@@ -985,7 +985,7 @@
             "open_issues": 5,
             "owner": "iGio90",
             "repo": "Dwarf",
-            "stars": 1325,
+            "stars": 1324,
             "topics": [
               "android",
               "capstone-engine",
@@ -1101,7 +1101,7 @@
             "open_issues": 13,
             "owner": "frida-labs",
             "repo": "cryptoshark",
-            "stars": 603,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1122,7 +1122,7 @@
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "android",
               "android-https-capture",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:42:08.724Z",
+    "last_updated": "2026-11-19T22:45:54.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1350,7 +1350,7 @@
       "open_issues": 1,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3563,
+      "stars": 3565,
       "topics": [
         "android",
         "awesome",
