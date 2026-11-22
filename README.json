@@ -118,6 +118,29 @@
         },
         {
           "node_type": "item",
+          "title": "frida-fs",
+          "description": "Create a stream from a filesystem resource.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create a stream from a filesystem resource.",
+            "homepage": null,
+            "id": 60615275,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-20T09:21:15Z",
+            "open_issues": 4,
+            "owner": "nowsecure",
+            "repo": "frida-fs",
+            "stars": 54,
+            "topics": [
+              "frida"
+            ]
+          },
+          "first_seen": "2026-08-29T00:07:49.332Z"
+        },
+        {
+          "node_type": "item",
           "title": "frida-screenshot",
           "description": "Grab (iOS) screenshots",
           "children": [],
@@ -139,29 +162,6 @@
               "ios",
               "nodejs",
               "screenshot"
-            ]
-          },
-          "first_seen": "2026-08-29T00:07:49.332Z"
-        },
-        {
-          "node_type": "item",
-          "title": "frida-fs",
-          "description": "Create a stream from a filesystem resource.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create a stream from a filesystem resource.",
-            "homepage": null,
-            "id": 60615275,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-20T09:21:15Z",
-            "open_issues": 4,
-            "owner": "nowsecure",
-            "repo": "frida-fs",
-            "stars": 52,
-            "topics": [
-              "frida"
             ]
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -669,7 +669,7 @@
             "open_issues": 0,
             "owner": "b-erdem",
             "repo": "rekit",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "android",
               "api",
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9530,
+            "stars": 9531,
             "topics": [
               "android",
               "framework",
@@ -810,7 +810,7 @@
             "open_issues": 12,
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3152,
+            "stars": 3153,
             "topics": [
               "android-security",
               "frida",
@@ -858,7 +858,7 @@
             "open_issues": 5,
             "owner": "chaitin",
             "repo": "passionfruit",
-            "stars": 1670,
+            "stars": 1671,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -910,7 +910,7 @@
             "open_issues": 6,
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1512,
+            "stars": 1511,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 73,
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "analysis",
               "android",
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 861,
+            "stars": 862,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:12:12.421Z",
+    "last_updated": "2026-11-22T21:16:50.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
@@ -1350,7 +1350,7 @@
       "open_issues": 1,
       "owner": "dweinstein",
       "repo": "awesome-frida",
-      "stars": 3568,
+      "stars": 3569,
       "topics": [
         "android",
         "awesome",
