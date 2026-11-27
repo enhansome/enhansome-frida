@@ -401,8 +401,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T18:28:59Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-26T08:51:44Z",
+            "open_issues": 37,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1458,
@@ -780,7 +780,7 @@
             "open_issues": 58,
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9537,
+            "stars": 9539,
             "topics": [
               "android",
               "framework",
@@ -953,8 +953,8 @@
             "id": 35610263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T18:28:59Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-26T08:51:44Z",
+            "open_issues": 37,
             "owner": "nowsecure",
             "repo": "r2frida",
             "stars": 1458,
@@ -1080,7 +1080,7 @@
             "open_issues": 27,
             "owner": "Nightbringer21",
             "repo": "fridump",
-            "stars": 864,
+            "stars": 865,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:49.332Z"
@@ -1118,7 +1118,7 @@
             "id": 411940494,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T07:43:38Z",
+            "last_commit": "2026-11-26T09:55:07Z",
             "open_issues": 5,
             "owner": "fkie-cad",
             "repo": "friTap",
@@ -1338,7 +1338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:47:26.655Z",
+    "last_updated": "2026-11-27T00:01:17.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)",
